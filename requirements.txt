@@ -1,0 +1,6 @@
+openai
+azure-identity
+faiss-cpu
+pypdf
+numpy
+tiktoken
