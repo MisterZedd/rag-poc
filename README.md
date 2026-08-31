@@ -1,13 +1,11 @@
 # Grounded RAG Assistant on Azure OpenAI
+NOTE: The code and readme of this repo is AI-generated!
 
 A retrieval-augmented generation (RAG) system that answers questions about a set
 of organizational policy documents, grounding every response in the source text,
 citing where each answer came from, and refusing to answer when the documents
 don't cover the question. Built on Microsoft Foundry with keyless
 authentication and an evaluation harness wired into CI.
-
-> The document set in `knowledge/` is **synthetic** — fictional "State of
-> Cascadia" policies created for this demo. No real or sensitive data is used.
 
 ## Why this exists
 
