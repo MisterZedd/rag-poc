@@ -1,4 +1,4 @@
-# Grounded RAG Assistant on Azure OpenAI
+# Grounded RAG Assistant on Microsoft Foundry
 NOTE: The code and readme of this repo is AI-generated!
 
 A retrieval-augmented generation (RAG) system that answers questions about a set
@@ -73,7 +73,7 @@ python eval.py
   Confidential). Classification determines whether a document may be sent to a
   cloud model at all; Confidential content is excluded entirely. All documents in
   this demo are Public.
-- Azure OpenAI keeps prompts and completions within the tenant and region and
+- Microsoft Foundry keeps prompts and completions within the tenant and region and
   does not use them to train models.
 
 ## Security
